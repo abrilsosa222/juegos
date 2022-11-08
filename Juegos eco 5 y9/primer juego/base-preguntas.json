@@ -1,0 +1,50 @@
+[
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué estudia la filosofia",
+        "respuesta": "estudia asuntos relacionados a la existencia humana, tales como el conocimiento, la moral, el ser, la verdad, etc",
+        "incorrecta1": "estudia la vida",
+        "incorrecta2": "estudia el bien y el mal y sus relaciones con la moral y el comportamiento humano.",
+        "incorrecta3": "estudia el comportamiento humano en cuanto al bien y el mal",
+        "imagen": "https://images.ecestaticos.com/eJpF9C7qs7nMMSPadj5u1uQeukQ=/131x0:863x548/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffa6%2Ff7f%2Fe35%2Ffa6f7fe357cc232cf1771a4ce7bc5fb0.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Cual fue la primer mujer filosófa?",
+        "respuesta": "Hipatia de Alejandría",
+        "incorrecta1": "Anaxágoras",
+        "incorrecta2": "Aspasia de Mileto",
+        "incorrecta3": "No hay mujeres filósofas",
+        "imagen": "https://i.ytimg.com/vi/NsTcq0hyOS4/maxresdefault.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Cual de estos no fue un filosofo?",
+        "respuesta":   "Edmund Hillary",
+        "incorrecta1": "Heráclito de Éfeso",
+        "incorrecta2": "Epicuro de Samos",
+        "incorrecta3": "Diógenes de Sinope",
+        "imagen": "https://estaticos.muyhistoria.es/media/cache/1140x_thumb/uploads/images/test/5f4e40db5bafe89dfe2a7f8c/filo4.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Cual fue el filosofo que dijo ¨Dios ha muerto y nosotros lo hemos matado¨?",
+        "respuesta": "El Estagirita",
+        "incorrecta1": "Apostol de los indios",
+        "incorrecta2": "El Oscuro de Éfeso",
+        "incorrecta3": "Mi Bebito fiufiu",
+        "imagen": "https://blog.posgrados.ibero.mx/wp-content/uploads/2020/11/post_thumbnail-8c70a511b4682ecbbd4f03998f5e8bee-1024x576.jpeg"
+    },
+    {
+        "categoria": "Filosofia",
+        "pregunta": "¿Qué filósofo afirmaba que todo conocimiento deriva, en última instancia, de la experiencia sensible?",
+        "respuesta": "David Hume",
+        "incorrecta1": "John Locke",
+        "incorrecta2": "Thomas Hobbes",
+        "incorrecta3": "Abril Sosa",
+        "imagen": "https://1.bp.blogspot.com/-J5q2GZ6-FQ4/Xr--dNHR_II/AAAAAAAAFoQ/JZdPEgLAF00gsH79zGssMo2AoJLfoWGsgCLcBGAsYHQ/w600/Philosophers.jpg "
+    }
+]
